@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dea446e8-58d7-4a93-ab15-83cc19cbdead" name="Default Changelist" comment="add:new-trand-web.">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/new-trand.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/bootstrap-responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/documenter_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/pre_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/copyright.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/email.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/glyphicons-halflings-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/glyphicons-halflings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/glyphicons/glyphicons_009_magic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/glyphicons/glyphicons_042_group.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/glyphicons/glyphicons_079_podium.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/glyphicons/glyphicons_082_roundabout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/glyphicons/glyphicons_155_show_thumbnails.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/glyphicons/glyphicons_163_iphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/glyphicons/glyphicons_214_resize_small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/glyphicons/glyphicons_266_book_open.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/map.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/bootstrap-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/google-code-prettify/prettify.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/google-code-prettify/prettify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.easing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.scrollTo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jHwykH0Y6fplBxRPHkWLNvIWKs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dea446e8-58d7-4a93-ab15-83cc19cbdead" name="Default Changelist" comment="" />
+      <created>1603474581362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603474581362</updated>
+      <workItem from="1603474583428" duration="337000" />
+    </task>
+    <task id="LOCAL-00001" summary="add:new-trand-web.">
+      <created>1603474671949</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603474671949</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add:new-trand-web." />
+    <option name="LAST_COMMIT_MESSAGE" value="add:new-trand-web." />
+  </component>
+</project>
