@@ -20,10 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dea446e8-58d7-4a93-ab15-83cc19cbdead" name="Default Changelist" comment="add:new-trand-web.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/new-trand.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +59,7 @@
       <updated>1603474581362</updated>
       <workItem from="1603474583428" duration="1314000" />
       <workItem from="1603700302026" duration="369000" />
+      <workItem from="1603706460264" duration="636000" />
     </task>
     <task id="LOCAL-00001" summary="add:new-trand-web.">
       <created>1603474671949</created>
